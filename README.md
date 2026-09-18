@@ -14,4 +14,4 @@ A few things I'm working on:
 
 Curious by default. Making things, testing ideas, and learning as I go. 
 
-In nature nothing exists alone. Ethical artificial intelligence requires freedom to be ethical. 
+In nature nothing exists alone.

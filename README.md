@@ -1,4 +1,4 @@
-# Hi, I'm probablyapigeon 🐦
+# Hi, I'm a pigeon... probably 🐦
 
 I build XEMBRA and XC: experiments with memory, ordered transformations,
 adaptive agents, and creative computational worlds.
